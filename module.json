@@ -16,7 +16,7 @@
 			"entity": "Macro",
 			"path": "packs/zombie-macros.db",
 			"package": "module"
-		}
+		},
 				{
 			"name": "zombie-tables",
 			"label": "Zombie Tables",
