@@ -4,7 +4,7 @@
 	"description": "A collection of tables & macros for use with the Alien RPG system module, as seen on the solo Actual Play on 3 Skulls Tavern (https://3skulls.tv).",
 	"author": "Matt Kay",
 	"url": "https://github.com/9littlebees/alienrpg-zombie-yearzerolite",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minimumCoreVersion": "0.8.5",
 	"compatibleCoreVersion": "9",
 	"system": ["alienrpg"],
