@@ -14,4 +14,5 @@ A collection of tables &amp; macros for use with the Alien RPG system module, as
 6. Once finishing populating a table, be sure to update the "Roll Table Formula" field so that it reads "1dX" where "X" represents the range (i.e. number of entries).
 
 See the GIF below for a quick overview of the above.
-![Importing Compendium Packs](https://i.ibb.co/H4pWjj4/Importing-Compendium-Packs.gif)
+
+[Importing Compendium Packs](https://i.ibb.co/H4pWjj4/Importing-Compendium-Packs.gif)
