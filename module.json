@@ -1,0 +1,37 @@
+{
+	"name": "alienrpg-zombie-yearzerolite",
+	"title": "Kentucky Zombie Apocalypse (Year Zero Lite) - Tweaking the Alien RPG",
+	"description": "A collection of tables & macros for use with the Alien RPG system module, as seen on the solo Actual Play on 3 Skulls Tavern (https://3skulls.tv).",
+	"author": "Matt Kay",
+	"url": "https://github.com/9littlebees/alienrpg-zombie-yearzerolite",
+	"version": "1.0.0",
+	"minimumCoreVersion": "0.8.5",
+	"compatibleCoreVersion": "9",
+	"system": ["alienrpg"],
+	"minimumSystemVersion": "2.0.8",
+	"packs": [
+		{
+			"name": "zombie-macros",
+			"label": "Zombie Macros",
+			"entity": "Macro",
+			"path": "packs/zombie-macros.db",
+			"package": "module"
+		}
+				{
+			"name": "zombie-tables",
+			"label": "Zombie Tables",
+			"entity": "RollTable",
+			"path": "packs/zombie-tables.db",
+			"package": "rolltable"
+		}
+	],
+	"languages": [
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "lang/en.json"
+		}
+	],
+	"manifest": "https://github.com/9littlebees/alienrpg-zombie-yearzerolite/releases/latest/download/module.json",
+	"download": "https://github.com/9littlebees/alienrpg-zombie-yearzerolite/releases/latest/download/module.zip",
+}
