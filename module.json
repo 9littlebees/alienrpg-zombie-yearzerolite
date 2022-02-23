@@ -4,20 +4,41 @@
 	"description": "A collection of tables & macros for use with the Alien RPG system module, as seen on the solo Actual Play on 3 Skulls Tavern (https://3skulls.tv).",
 	"author": "Matt Kay",
 	"url": "https://github.com/9littlebees/alienrpg-zombie-yearzerolite",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"minimumCoreVersion": "0.8.5",
 	"compatibleCoreVersion": "9",
 	"system": ["alienrpg"],
 	"minimumSystemVersion": "2.0.8",
 	"packs": [
 		{
-			"name": "zombie-macros-v2",
-			"label": "Zombie Macros v2",
-			"path": "packs/zombie-macros-v2.db",
+			"name": "zombie-macros-v3",
+			"label": "Zombie Macros v3",
+			"path": "packs/zombie-macros-v3.db",
 			"type": "Macro",
 			"entity": "Macro"
 		},
-				{
+		{
+			"name": "zombie-npcs-actors",
+			"label": "NPCs",
+			"path": "packs/zombie-npcs-actors.db",
+			"type": "Actor",
+			"entity": "Actor"
+		},
+		{
+			"name": "zombie-places",
+			"label": "Places",
+			"path": "packs/zombie-places.db",
+			"type": "JournalEntry",
+			"entity": "JournalEntry"
+		},
+		{
+			"name": "zombie-npcs-journal",
+			"label": "NPCs",
+			"path": "packs/zombie-npcs-journal.db",
+			"type": "JournalEntry",
+			"entity": "JournalEntry"
+		},
+		{
 			"name": "zombie-tables-v2",
 			"label": "Zombie Tables v2",
 			"path": "packs/zombie-tables-v2.db",
