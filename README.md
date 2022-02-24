@@ -1,4 +1,4 @@
-# Kentuck Zombie Apocalypse - tools for the Alien RPG
+# Kentucky Zombie Apocalypse - tools for the Alien RPG
 A collection of tables &amp; macros for use with the Alien RPG system module, as seen on the solo Actual Play on 3 Skulls Tavern (https://3skulls.tv).
 
 ## REQUIREMENTS
