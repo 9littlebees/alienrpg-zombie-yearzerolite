@@ -2,8 +2,8 @@
 A collection of tables &amp; macros for use with the Alien RPG system module, as seen on the solo Actual Play on 3 Skulls Tavern (https://3skulls.tv).
 
 ## REQUIREMENTS
-"Alien RPG" system module
-"Game-Icons.net" add-on module
+- "Alien RPG" system module
+- "Game-Icons.net" add-on module
 
 ## TO INSTALL
 1. Go to Manage Modules and activate the Game-Icons.net and Kentucky Zombie Apocalypse modules.
